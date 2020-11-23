@@ -7,10 +7,10 @@
     Release="false" 
     Final="false">
     <Imports>
-        <Import>.\scripts\source</Import>
-        <Import>C:\SteamLibrary\steamapps\common\Skyrim Special Edition\Data\scripts\source</Import>
+        <Import>.\scripts\Source\</Import>
+        <Import>C:\SteamLibrary\steamapps\common\Skyrim Special Edition\Data\scripts\source\</Import>
     </Imports>
     <Folders>
-        <Folder>.\scripts\source/Folder>
+        <Folder>.\scripts\Source\>
     </Folders>
 </PapyrusProject>
