@@ -7,7 +7,7 @@
 					<plugins>
 						<plugin name="T.U.D Mod Core Files">
 							<description>
-This contains the core files of T.U.D Mod
+This contains the core files of T.U.D Mod as well as TUDM Attack Cancel Patch that can be ticked when Nemesis is run
 							</description>
 							<image path="images\blacklogo.png"/>
 							<files>
