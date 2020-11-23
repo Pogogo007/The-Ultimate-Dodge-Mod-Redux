@@ -21,13 +21,14 @@ This contains the core files of T.U.D Mod as well as TUDM Attack Cancel Patch th
 				</group>
 				<group name="Keyboard Mapping" type="SelectAtMostOne">
 					<plugins order="Explicit">
-						<plugin name="Custom Key Mapping">
+						<plugin name="TUDM Attack Cancel">
 							<description>
-IGNORE THIS
+This Contains TUDM Attack Cancel
+This Allows you to cancel your attacks by dodging with TUDM. Make sure to tick this patch in Nemesis
 							</description>
 							<image path="images\blacklogo.png"/>
 							<files>
-								<folder source="01 Custom Key Mapping\Interface" destination="Interface"/>
+								<folder source="01 DMAC" destination=""/>
 							</files>
 							<typeDescriptor>
 								<type name="Optional"/>
