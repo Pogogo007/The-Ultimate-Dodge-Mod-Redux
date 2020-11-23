@@ -23,11 +23,7 @@ This contains the core files of T.U.D Mod as well as TUDM Attack Cancel Patch th
 					<plugins order="Explicit">
 						<plugin name="Custom Key Mapping">
 							<description>
-THIS IS FOR KEYBOARD PLAYERS. CONTROLLER PLAYERS CAN LEAVE THIS UNCHECKED.
-
-Switched dodge key (CTRL) with Jump key (SPACE)
-
-Either with this or not, player can still rebind the key on their own.(Press Esc > System > Controls) Here, player can rebind the key to their liking.
+IGNORE THIS
 							</description>
 							<image path="images\blacklogo.png"/>
 							<files>
