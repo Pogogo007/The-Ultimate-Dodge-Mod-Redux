@@ -1,0 +1,45 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd">
+ <moduleName>The Ultimate Dodge Mod</moduleName>
+	<installSteps order="Explicit">
+		<installStep name="Options" >
+			<optionalFileGroups>
+				<group name="The Ultimate Dodge Mod" type="SelectExactlyOne">
+					<plugins>
+						<plugin name="T.U.D Mod Core Files">
+							<description>
+This contains the core files of T.U.D Mod
+							</description>
+							<image path="images\blacklogo.png"/>
+							<files>
+								<folder source="00 Data\" destination=""/>
+							</files>
+							<typeDescriptor>
+								<type name="Required"/>
+							</typeDescriptor>
+						</plugin>									
+					</plugins>
+				</group>
+				<group name="Keyboard Mapping" type="SelectAtMostOne">
+					<plugins order="Explicit">
+						<plugin name="Custom Key Mapping">
+							<description>
+THIS IS FOR KEYBOARD PLAYERS. CONTROLLER PLAYERS CAN LEAVE THIS UNCHECKED.
+
+Switched dodge key (CTRL) with Jump key (SPACE)
+
+Either with this or not, player can still rebind the key on their own.(Press Esc > System > Controls) Here, player can rebind the key to their liking.
+							</description>
+							<image path="images\blacklogo.png"/>
+							<files>
+								<folder source="01 Custom Key Mapping\Interface" destination="Interface"/>
+							</files>
+							<typeDescriptor>
+								<type name="Optional"/>
+							</typeDescriptor>
+						</plugin>					
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+	</installSteps>
+</config>
