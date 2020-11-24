@@ -19,7 +19,7 @@ This contains the core files of T.U.D Mod as well as TUDM Attack Cancel Patch th
 						</plugin>									
 					</plugins>
 				</group>
-				<group name="Keyboard Mapping" type="SelectAtMostOne">
+				<group name="TUDM Attack Cancel" type="SelectAtMostOne">
 					<plugins order="Explicit">
 						<plugin name="TUDM Attack Cancel">
 							<description>
