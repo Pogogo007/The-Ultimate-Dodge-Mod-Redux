@@ -137,7 +137,7 @@
 				<hkcstring>IsShouting</hkcstring>
 				<hkcstring>iState</hkcstring>
 				<hkcstring>iState_NPCDefault</hkcstring>
-				<hkcstring> iState_NPCSneaking</hkcstring>
+				<hkcstring>iState_NPCSneaking</hkcstring>
 				<hkcstring>InDualMagicState</hkcstring>
 				<hkcstring>iDualMagicState</hkcstring>
 				<hkcstring>bMLh_Ready</hkcstring>
@@ -6890,7 +6890,7 @@
 			<!-- id SERIALIZE_IGNORED -->
 			<!-- cloneState SERIALIZE_IGNORED -->
 			<!-- padNode SERIALIZE_IGNORED -->
-			<hkparam name="animationName">Animations\male\MT_Idle.HKX</hkparam>
+			<hkparam name="animationName">Animations\1HM_1stP_Run.hkx</hkparam>
 			<hkparam name="triggers">null</hkparam>
 			<hkparam name="cropStartAmountLocalTime">0.000000</hkparam>
 			<hkparam name="cropEndAmountLocalTime">0.000000</hkparam>
@@ -16604,7 +16604,7 @@
 					<!-- flags SERIALIZE_IGNORED -->
 				</hkobject>
 			</hkparam>
-			<hkparam name="indexOfBindingToEnable">0</hkparam>
+			<hkparam name="indexOfBindingToEnable">-1</hkparam>
 			<!-- hasOutputBinding SERIALIZE_IGNORED -->
 		</hkobject>
 

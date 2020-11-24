@@ -2432,9 +2432,9 @@
 					<hkparam name="characterControllerCinfo">null</hkparam>
 				</hkobject>
 			</hkparam>
-			<hkparam name="modelUpMS">(0.000000 0.000000 1.000000 0.000000)</hkparam>
-			<hkparam name="modelForwardMS">(1.000000 0.000000 0.000000 0.000000)</hkparam>
-			<hkparam name="modelRightMS">(-0.000000 -1.000000 -0.000000 0.000000)</hkparam>
+			<hkparam name="modelUpMS">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+			<hkparam name="modelForwardMS">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+			<hkparam name="modelRightMS">(0.000000 0.000000 0.000000 0.000000)</hkparam>
 			<hkparam name="characterPropertyInfos" numelements="39">
 				<hkobject>
 					<hkparam name="role">
